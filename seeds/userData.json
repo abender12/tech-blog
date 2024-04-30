@@ -1,17 +1,17 @@
 [
     {
-      "name": "Janis Joplin",
-      "email": "takeanotherlittlepieceofmyheart@hotmail.com",
-      "password": "password1"
+      "name": "Alice Cooper",
+      "email": "schoolsout4eva@gmail.com",
+      "password": "passwordRockz"
     },
     {
-      "name": "Jerry Garcia",
-      "email": "dancingbears@gmail.com",
-      "password": "password12"
+      "name": "Geroge Washington",
+      "email": "1stprez@aol.com",
+      "password": "password1776"
     },
     {
-      "name": "John Lennon",
-      "email": "imagine@aol.com",
-      "password": "password123"
+      "name": "Alexander Hamilton",
+      "email": "federalistman1@yahoo.com",
+      "password": "17password81"
     }
   ]
