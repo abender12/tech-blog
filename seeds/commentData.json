@@ -1,37 +1,37 @@
 [
     {
-      "comment_body": "What is this guy talking about!",
-      "date_created": "January 15, 2022",
-      "user_id": 2,
-      "blogPost_id": 1
-    },
-    {
-      "comment_body": "I can see what he meant",
-      "date_created": "June 2, 2022",
-      "user_id": 3,
-      "blogPost_id": 1
-    },
-    {
-      "comment_body": "Peace and love mannnnn, even for robots!",
-      "date_created": "March 18, 2022",
-      "user_id": 3,
-      "blogPost_id": 2
-    },
-    {
-      "comment_body": "What is your opinion?",
-      "date_created": "November 1, 2022",
+      "comment_body": "Spicy Funyuns are DEFINITELY the way to go",
+      "date_created": "September 22, 2013",
       "user_id": 1,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "Spicy chips are GROSS",
+      "date_created": "October 1, 2013",
+      "user_id": 2,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "YAY! I can't believe I got Shasta <3",
+      "date_created": "May 4, 2023",
+      "user_id": 2,
       "blogPost_id": 2
     },
     {
-      "comment_body": "lol",
-      "date_created": "May 28, 2023",
-      "user_id": 2,
+      "comment_body": "Why do I always get Cam ;-;",
+      "date_created": "May 10, 2023",
+      "user_id": 3,
+      "blogPost_id": 2
+    },
+    {
+      "comment_body": "If students HAVE to go to the school because the government says so, then the government should.",
+      "date_created": "August 18, 2022",
+      "user_id": 3,
       "blogPost_id": 3
     },
     {
-      "comment_body": "Never believe the media",
-      "date_created": "May 30, 2023",
+      "comment_body": "Hmmmm, it feels wrong for teachers to supply their own classroom. Maybe the schools should have to help? Maybe parents?",
+      "date_created": "August 23, 2022",
       "user_id": 1,
       "blogPost_id": 3
     }
