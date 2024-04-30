@@ -1,7 +1,7 @@
 [
     {
-      "title": "Best Spicy Chips",
-      "description": "The best spicy chips are Flamin' Hot Crunchy Cheetos. Here's why--",
+      "title": "Best Practices",
+      "description": "We found some of the best coding practices, and we're prepared to explain them to you.",
       "date_created": "September 11, 2013",
       "user_id": 1
     },
@@ -12,8 +12,8 @@
       "user_id": 2
     },
     {
-      "title": "Financing Teacher's Classrooms",
-      "description": "Who's responsible for supplying a teacher's classroom?",
+      "title": "Technology in Teachers' Classrooms",
+      "description": "How big of a role does technology play in the classrom?",
       "date_created": "August 17, 2022",
       "user_id": 3
     }
