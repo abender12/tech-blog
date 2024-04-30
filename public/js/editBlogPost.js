@@ -1,21 +1,15 @@
-let blogPost = window.location.pathname.split("/");
-
-// Function created allowing user to edit blog posts from the individual blog post page
-const editPost = async (event) => {
+const editPost = (event) => {
   event.preventDefault();
-  console.log("clicked me");
+  console.log("Clicked edit button");
 
-  // get text and trim whitespace
-  const comment_body = document.getElementById("editBtn").value.trim();
-
+  let blogPost = window.location.pathname.split("/");
   console.log(blogPost);
 
-  document.location.assign(`/create/${blogPost[2]}`);
+  const blogPostId = blogPost[2];
+  document.location.assign(`/create/${blogPostId}`);
 };
 
-const editButton = document.querySelectorAll("#editBtn");
-
-// Iterates over all buttons on the page allowing for edit functionality
-for (let i = 0; i < editButton.length; i++) {
-  editButton[i].addEventListener("click", editPost);
-}
+const editButtons = document.querySelectorAll("#editBtn");
+editButtons.forEach((button) => {
+  button.addEventListener("click", editPost);
+});
